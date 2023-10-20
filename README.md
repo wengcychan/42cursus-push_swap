@@ -51,4 +51,5 @@ To use the Push_swap program, follow these steps:
    ```bash
 	./push_swap 3 2 1 | ./checker 3 2 1
 	```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the stack is sorted, it will display "OK"; otherwise, it will display "KO". Please note that the `checker` program also supports using the standard input for instructions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If the stack is sorted, it will display "OK"; otherwise, it will display "KO".  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please note that the `checker` program also supports using the standard input for instructions.
