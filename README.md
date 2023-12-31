@@ -13,7 +13,7 @@ For more projects related to 42cursus, please visit the [hive-42cursus](https://
 
 The goal of this project is to create a program that sorts integers on a stack. There are two stacks, named `a` and `b`, and a set of instructions to manipulate both stacks. The mission is to use `Push swap language` instructions to sort the integers the fastest way possible.
 
-<img alt="Push Swap Program" src="./images/push_swap.png" width="80%">
+<img alt="Push Swap Program" src="./images/push_swap.png" width="90%">
 
 ## Sorting Algorithm
 
